@@ -12,7 +12,7 @@ Module.register("timetowork",{
     defaults: {
             height:"300px",
             width:"100%",
-            key: "GOOGLE KEY",
+            key: "MAPQUEST API KEY",
             from_loc: "FROM LOCATION",
             to_loc: "TO LOCATION",
             header: "Travel time to Work"
