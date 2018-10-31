@@ -1,7 +1,7 @@
 # TimeToWork---MagicMirror
 Simple Module for Magic mirror to dislay travel time to work
 
-#To use:
+# To use:
 
 Edit timetowork.js and add your google key, as well as to/from locations in appropriate places. 
 
